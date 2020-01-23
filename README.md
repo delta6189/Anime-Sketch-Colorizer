@@ -50,7 +50,9 @@ Training details
 Model details
 ------
 
- Please refer `Model_details.pdf`
+![ex_screenshot](./Model.png)
+ 
+ For more details, please refer `Model_details.pdf`
  
 Results
 -----
