@@ -67,6 +67,10 @@ Results
 ![ex_screenshot](./outputs/sample/img-2584.jpg)
 ![ex_screenshot](./outputs/sample/img-2796.jpg)
 ![ex_screenshot](./outputs/sample/img-3050.jpg)
+![ex_screenshot](./outputs/sample/img-4202.jpg)
+![ex_screenshot](./outputs/sample/img-4515.jpg)
+![ex_screenshot](./outputs/sample/img-7038.jpg)
+![ex_screenshot](./outputs/sample/img-7159.jpg)
  
 Reference
 ------
