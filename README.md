@@ -23,12 +23,28 @@ Dataset
 Train
 ------
 
-  Refer `filename.ipynb`
+  Please refer `filename.ipynb`
   
 Val
 ------
 
-  Refer `filename.ipynb`
+  Please refer `filename.ipynb`
+  
+Training details
+------
+
+| <center>Parameter</center> | <center>Value</center> |
+|:--------|:--------:|
+| learning rate | 2e-4 | 
+| optimizer | Adam |
+| (beta1, beta2) | (0.5, 0.999) |
+| (lambda1, lambda2, lambda3) | (100, 1e-4, 1e-2) |
+| Data Augmentation | RandomResizedCrop(256), RandomHorizontalFlip() |
+
+Model details
+------
+
+ Please refer 'paper.pdf'
  
 Reference
 ------
