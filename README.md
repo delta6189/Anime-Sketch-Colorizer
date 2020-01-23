@@ -1,8 +1,10 @@
 # Anime-Sketch-Colorizer
+=======
 Automatic Sketch Colorization with reference image
 
 Prerequisites
-  
+------
+
   pytorch
   torchvision
   numpy
@@ -10,18 +12,22 @@ Prerequisites
   matplotlib
     
 Dataset
+------
 
   Taebum Kim, "Anime Sketch Colorization Pair", https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair
     
 Train
+------
 
   Refer `filename.ipynb`
   
 Val
+------
 
   Refer `filename.ipynb`
  
 Reference
+------
 
  [1] Taebum Kim, "Anime Sketch Colorization Pair", https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair, 2019., 2020.1.13.
  [2] Jim Bohnslav,"opencv_transforms",https://github.com/jbohnslav/opencv_transforms,2020.1.13.
