@@ -6,9 +6,13 @@ Prerequisites
 ------
 
   pytorch
+  
   torchvision
+  
   numpy
+  
   openCV2
+  
   matplotlib
     
 Dataset
