@@ -54,8 +54,16 @@ Model details
  
 Results
 -----
-![ex_screenshot](./outputs/sample/img-2.jpg)
+Reference / Sketch / Colorization Result / Ground Truth
 
+![ex_screenshot](./outputs/sample/img-2.jpg)
+![ex_screenshot](./outputs/sample/img-43.jpg)
+![ex_screenshot](./outputs/sample/img-79.jpg)
+![ex_screenshot](./outputs/sample/img-219.jpg)
+![ex_screenshot](./outputs/sample/img-2417.jpg)
+![ex_screenshot](./outputs/sample/img-2584.jpg)
+![ex_screenshot](./outputs/sample/img-2796.jpg)
+![ex_screenshot](./outputs/sample/img-3050.jpg)
  
 Reference
 ------
