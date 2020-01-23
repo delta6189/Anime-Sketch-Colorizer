@@ -23,12 +23,14 @@ Dataset
 Train
 ------
 
-  Please refer `filename.ipynb`
+  Please refer `train.ipynb`
   
-Val
+Test
 ------
 
-  Please refer `filename.ipynb`
+  Please refer `test.ipynb`
+  
+* You can download pretrained checkpoint on 
   
 Training details
 ------
@@ -48,7 +50,11 @@ Training details
 Model details
 ------
 
- Please refer `paper.pdf`
+ Please refer `Model_details.pdf`
+ 
+Results
+-----
+
  
 Reference
 ------
