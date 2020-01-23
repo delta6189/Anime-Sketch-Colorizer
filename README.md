@@ -30,7 +30,7 @@ Test
 
   Please refer `test.ipynb`
   
-* You can download pretrained checkpoint on 
+* You can download pretrained checkpoint on https://drive.google.com/open?id=1pIZCjubtyOUr7AXtGQMvzcbKczJ9CtQG (449MB)
   
 Training details
 ------
