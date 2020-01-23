@@ -54,7 +54,7 @@ Model details
  
 Results
 -----
-Reference / Sketch / Colorization Result / Ground Truth
+<center>Reference / Sketch / Colorization Result / Ground Truth</center>
 
 ![ex_screenshot](./outputs/sample/img-2.jpg)
 ![ex_screenshot](./outputs/sample/img-43.jpg)
