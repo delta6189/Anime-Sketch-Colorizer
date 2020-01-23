@@ -46,7 +46,7 @@ Training details
 Model details
 ------
 
- Please refer 'paper.pdf'
+ Please refer `paper.pdf`
  
 Reference
 ------
