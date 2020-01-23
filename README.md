@@ -37,13 +37,13 @@ Training details
 |:--------|:--------:|
 | Learning rate | 2e-4 | 
 | Batch size | 2 | 
-| Epoch | 40 | 
+| Epoch | 25 | 
 | Optimizer | Adam |
 | (beta1, beta2) | (0.5, 0.999) |
 | (lambda1, lambda2, lambda3) | (100, 1e-4, 1e-2) |
 | Data Augmentation | RandomResizedCrop(256)<br>RandomHorizontalFlip() |
 | HW | CPU : Intel i5-8400<br>RAM : 16G<br>GPU : NVIDIA GTX1060 6G |
-| Training Time | About 0.93s per iteration<br>(About 3 days for 40 epoch) |
+| Training Time | About 0.93s per iteration<br>(About 45 hours for 25 epoch) |
 
 Model details
 ------
