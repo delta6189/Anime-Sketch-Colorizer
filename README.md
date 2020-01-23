@@ -5,15 +5,15 @@ Automatic Sketch Colorization with reference image
 Prerequisites
 ------
 
-  pytorch
+  `pytorch`
   
-  torchvision
+  `torchvision`
   
-  numpy
+  `numpy`
   
-  openCV2
+  `openCV2`
   
-  matplotlib
+  `matplotlib`
     
 Dataset
 ------
