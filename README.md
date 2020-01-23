@@ -54,6 +54,7 @@ Model details
  
 Results
 -----
+![ex_screenshot](./outputs/sample/img-2.jpg)
 
  
 Reference
